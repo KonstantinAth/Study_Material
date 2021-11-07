@@ -1,0 +1,9 @@
+D:\Data_Structures\SLList\bin\Debug\SLList.dll
+D:\Data_Structures\SLList\bin\Debug\SLList.pdb
+D:\Data_Structures\SLList\bin\Debug\IList.dll
+D:\Data_Structures\SLList\bin\Debug\IList.pdb
+D:\Data_Structures\SLList\obj\Debug\SLList.csprojAssemblyReference.cache
+D:\Data_Structures\SLList\obj\Debug\SLList.csproj.CoreCompileInputs.cache
+D:\Data_Structures\SLList\obj\Debug\SLList.csproj.CopyComplete
+D:\Data_Structures\SLList\obj\Debug\SLList.dll
+D:\Data_Structures\SLList\obj\Debug\SLList.pdb

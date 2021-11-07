@@ -1,0 +1,12 @@
+E:\Data_Structures\IList\bin\Debug\IList.dll
+E:\Data_Structures\IList\bin\Debug\IList.pdb
+E:\Data_Structures\IList\obj\Debug\IList.csproj.AssemblyReference.cache
+E:\Data_Structures\IList\obj\Debug\IList.csproj.CoreCompileInputs.cache
+E:\Data_Structures\IList\obj\Debug\IList.dll
+E:\Data_Structures\IList\obj\Debug\IList.pdb
+D:\Data_Structures\IList\bin\Debug\IList.dll
+D:\Data_Structures\IList\bin\Debug\IList.pdb
+D:\Data_Structures\IList\obj\Debug\IList.csprojAssemblyReference.cache
+D:\Data_Structures\IList\obj\Debug\IList.csproj.CoreCompileInputs.cache
+D:\Data_Structures\IList\obj\Debug\IList.dll
+D:\Data_Structures\IList\obj\Debug\IList.pdb

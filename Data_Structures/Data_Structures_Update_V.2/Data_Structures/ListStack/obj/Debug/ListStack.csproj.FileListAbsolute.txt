@@ -1,0 +1,11 @@
+D:\Data_Structures\ListStack\bin\Debug\ListStack.dll
+D:\Data_Structures\ListStack\bin\Debug\ListStack.pdb
+D:\Data_Structures\ListStack\bin\Debug\IList.dll
+D:\Data_Structures\ListStack\bin\Debug\SLList.dll
+D:\Data_Structures\ListStack\bin\Debug\IList.pdb
+D:\Data_Structures\ListStack\bin\Debug\SLList.pdb
+D:\Data_Structures\ListStack\obj\Debug\ListStack.csprojAssemblyReference.cache
+D:\Data_Structures\ListStack\obj\Debug\ListStack.csproj.CoreCompileInputs.cache
+D:\Data_Structures\ListStack\obj\Debug\ListStack.csproj.CopyComplete
+D:\Data_Structures\ListStack\obj\Debug\ListStack.dll
+D:\Data_Structures\ListStack\obj\Debug\ListStack.pdb
